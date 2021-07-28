@@ -1,2 +1,2 @@
 # Introduction-to-IoT---Nptel
-Weekly assignments / quizzes solutions
+Solutions to the Weekly assignments / quizzes.
